@@ -10,6 +10,6 @@ Un blog increíble para el curso de Git y Github de Platzi
 * Desarrollar mi blog como programador
 * Desarrolar un juego de algo que me guste
 * convertir este blog en una primera versión de un proyecto
-
+* creado por el íncreible Cristian Casas
 Sí en algún momento entras a este **Readme.md no lo leas XD**
 [mejor ve a escuchar](https://open.spotify.com/show/7h45VNT5C5NdbgqEegq5YI?si=95bd3cf223e94a42) 
